@@ -1,0 +1,2 @@
+1. You can now create a pull request to merge with the original repo.
+2. Update the comments, follow it till the pull request is closed.

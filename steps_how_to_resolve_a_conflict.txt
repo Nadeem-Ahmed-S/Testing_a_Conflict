@@ -1,0 +1,9 @@
+1. If merge failed conflict occurs, open the conflict file.
+2. Make the changes you need.
+  1. <<<<Head -- shows your chnages
+  2. ======== -- shows original repo owner changes.
+3. You have three options :
+  1. Keep only your changes
+  2. Keep original repo owner changes
+  3. Keep both the changes
+4. Now use add, commit, push and update the changes to forked repo.

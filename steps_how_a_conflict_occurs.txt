@@ -1,0 +1,8 @@
+1. Fork a repo into your account.
+2. Clone the forked repo.
+3. Make some changes in the cloned repo file.
+4. Before pushing into the forked repo, do check updated original repo-> git pull ssh_link_of_original_repo branch_name.
+5. If you don't do the 4th step, then you may miss some changes if any changes made to the original repo.
+6. If there are any changes in original repo, you will get a CONFLICT : merge failed
+7. If not, no conflict shows.
+
