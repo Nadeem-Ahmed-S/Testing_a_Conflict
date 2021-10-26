@@ -1,7 +1,7 @@
-module top;
+module top
   
   initial begin
-    $display("Top");
+    $display("Top")
   end
   
 endmodule
